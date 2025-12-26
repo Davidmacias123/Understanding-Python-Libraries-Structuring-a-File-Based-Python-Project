@@ -70,7 +70,7 @@ print(f"Current working directory: {current_dir}")
 ```
 
 ### Common error to avoid
-❌ Do **not** do this:
+ Do **not** do this:
 ```python
 os = os.getcwd()
 ```
@@ -207,5 +207,3 @@ Fix:
 
 ---
 
-## Author
-David Macias
