@@ -207,3 +207,22 @@ Fix:
 
 ---
 
+Screenshots of my work:
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/0e93b82a-bae9-4984-8473-b45f87ddb096" />
+
+---
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/80e354db-4511-48db-92d4-c6b4cb53684d" />
+
+---
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/622b4965-147f-41be-bcc2-922f91ed9d44" />
+
+---
+
+<img width="1912" height="1076" alt="image" src="https://github.com/user-attachments/assets/2cad9983-5423-49fd-879a-b78798728949" />
+
+
+
+
